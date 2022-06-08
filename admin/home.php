@@ -170,6 +170,7 @@ $otv=mysqli_query($con,"select * from ticket where status='Open'");
 <script src="../assets/plugins/jquery-block-ui/jqueryblockui.js" type="text/javascript"></script>
 <script src="../assets/plugins/jquery-lazyload/jquery.lazyload.min.js" type="text/javascript"></script>
 <script src="../assets/plugins/jquery-scrollbar/jquery.scrollbar.min.js" type="text/javascript"></script>
+<script src="../assets/plugins/bootstrap/js/bootstrap.min.js" type="text/javascript"></script>
 <!-- END CORE JS FRAMEWORK -->
 <!-- BEGIN PAGE LEVEL JS -->
 <script src="../assets/plugins/jquery-slider/jquery.sidr.min.js" type="text/javascript"></script>
