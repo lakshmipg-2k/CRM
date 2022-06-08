@@ -127,6 +127,7 @@ $_SESSION['ids']=$row['id'];
 <script src="../assets/plugins/boostrapv3/js/bootstrap.min.js" type="text/javascript"></script>
 <script src="../assets/plugins/breakpoints.js" type="text/javascript"></script>
 <script src="../assets/plugins/jquery-unveil/jquery.unveil.min.js" type="text/javascript"></script>
+<script src="../assets/plugins/bootstrap/js/bootstrap.min.js" type="text/javascript"></script>
 <!-- END CORE JS FRAMEWORK -->
 <!-- BEGIN PAGE LEVEL JS -->
 <script src="../assets/plugins/pace/pace.min.js" type="text/javascript"></script>
