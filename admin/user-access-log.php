@@ -114,5 +114,6 @@ check_login();
 <script src="../assets/js/core.js" type="text/javascript"></script>
 <script src="../assets/js/chat.js" type="text/javascript"></script>
 <script src="../assets/js/demo.js" type="text/javascript"></script>
+<script src="../assets/plugins/bootstrap/js/bootstrap.min.js" type="text/javascript"></script>
 </body>
 </html>
